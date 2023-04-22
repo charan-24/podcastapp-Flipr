@@ -1,10 +1,11 @@
-import logo from './logo.svg';
-import './App.css';
+
+import Home from './components/Home';
 
 function App() {
   return (
-    <div className="App">
-      <h1>Let's fucking do it</h1>
+    <div >
+      <Home/>
+      
     </div>
   );
 }

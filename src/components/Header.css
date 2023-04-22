@@ -1,0 +1,36 @@
+.header{
+    display:flex;
+    justify-content:space-between;
+    margin-top:20px;
+    
+}
+
+
+.header_left{
+    background-color: white;
+    border-radius: 10px;
+    margin-left:200px;
+}
+
+
+.searchicon{
+    margin-left: 100px;
+    background-color: white;
+}
+
+.header_left > input{
+    margin-left:25px;
+    width:400px;
+    border:none;
+    border-radius:10px;
+    
+    
+}
+
+button{
+    border-radius:20px;
+    margin-right: 90px;
+    width:150px;
+    color:white;
+    background-color: rgb(82, 168, 139);
+}

@@ -1,0 +1,25 @@
+.sidebar{
+    
+    height:100vh;
+    flex:0.2;
+    min-width:200px;
+    padding-left: 15px;
+    background: linear-gradient(#cd80d1, #0297ad);
+
+}
+    
+
+.musicicon{
+    margin-top:9px;
+    font-size: 40px;
+}
+
+
+
+
+h1{
+    
+    margin-top:18px;
+    margin-left:10px;
+    
+}

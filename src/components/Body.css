@@ -1,0 +1,6 @@
+.body{
+    
+    flex:0.8;
+    height:100vh;
+    background: linear-gradient(rgb(156, 56, 156),rgb(35, 89, 127));
+}

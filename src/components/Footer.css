@@ -1,0 +1,38 @@
+.footer{
+    bottom:0;
+    position:fixed;
+    height:65px;
+    width:100%;
+    background-color: grey;
+    justify-content: space-between;
+    display:flex;
+}
+
+.footer_left{
+    flex:0.3;
+    
+    
+}
+img{
+    display:inline;
+}
+
+
+
+.footer_center{
+    flex:0.4;
+    padding:0 100px;
+    
+
+}
+
+.footer_right{
+    flex:0.3;
+    padding: 0 100px;
+
+}
+
+.shuffle{
+    color:antiquewhite;
+    
+}
